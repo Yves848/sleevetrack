@@ -1,0 +1,26 @@
+{
+  "name": "sleevetrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yves848/sleevetrack.git"
+  },
+  "author": "yves848",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yves848/sleevetrack/issues"
+  },
+  "homepage": "https://github.com/yves848/sleevetrack#readme",
+  "dependencies": {
+    "firebase": "^10.5.0",
+    "firebase-admin": "^11.11.0",
+    "pg": "^8.11.3"
+  }
+}
